@@ -1,0 +1,20 @@
+#container{
+    border: 10px outset blue;
+    background-color: lightgray;
+    width: 600px;
+    block-size: 600px;
+}
+h1{
+    text-align: center;
+}
+
+.scissors{
+    text-align: center;
+      flex: 50%;
+   padding: 50px;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+}
